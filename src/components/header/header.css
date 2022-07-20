@@ -42,7 +42,11 @@ header{
     width: 22rem;
     height: 30rem;
     position: absolute;
+<<<<<<< HEAD
     /* margin-left: 350px; */
+=======
+/*     margin-left: 350px; */
+>>>>>>> b4262028a5dca3466a53598b90edde298ad89628
     left: calc(50% -11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
@@ -70,7 +74,7 @@ header{
             display: none;
         }
         .me {
-            margin-left: 150px;
+/*             margin-left: 150px; */
         }
 }
 
@@ -85,6 +89,6 @@ header{
         display: none;
     }
     .me {
-        margin-left: 20px;
+/*         margin-left: 20px; */
     }
 }
